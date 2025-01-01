@@ -1,0 +1,5 @@
+admin_username = "azureuser"
+admin_password = "Change_This_Password123!"
+environment = "prod"
+location = "eastus"
+vm_size = "Standard_B2s"
